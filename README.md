@@ -88,4 +88,4 @@ Terminal 1:
     <li>Run (Running frontend on localhost:5173): <b>npm run dev</b></li>
 </ul>
 
-The project is complete but I'm open to suggestions & modifications for this project. Please don't forget to put a ⭐ if you like the project.
+<b>The project is complete but I'm open to suggestions & modifications for this project. Please don't forget to put a ⭐ if you like the project.</b>
