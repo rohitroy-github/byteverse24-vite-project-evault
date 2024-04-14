@@ -1,6 +1,6 @@
 <h2>Project E-Vault (EVM Based)</h2>
 
-<h4><b>Description: A modernized blockchain(EVM) based eVault storage solution for the Indian Judiciary made using ViteJS.</b></h4>
+<h4><b>Description: A modernized blockchain(EVM) based eVault storage solution for the Indian Judiciary made using ViteJS and powered by IPFS.</b></h4>
 
 <h4><b>Theme: Law and Justice | Open Innovation</b></h4>
 
