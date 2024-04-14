@@ -46,7 +46,7 @@ const Navbar = () => {
           </div>
         </div>
 
-        <div className="hidden md:flex space-x-10 items-center md:w-1/2 md:justify-end">
+        <div className="hidden md:flex space-x-10 items-center md:w-2/3 md:justify-end">
           {!isAdminRoute && (
             <>
               <Link
