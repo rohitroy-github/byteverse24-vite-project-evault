@@ -1,18 +1,18 @@
 <h2>Project E-Vault (EVM Based)</h2>
 
-<h4><b>Project description: A modernized blockchain(EVM) based eVault storage solution for the Indian Judiciary made using ViteJS.</b></h4>
+<h4><b>Description: A modernized blockchain(EVM) based eVault storage solution for the Indian Judiciary made using ViteJS.</b></h4>
 
-<h4><b>Project theme: Law and Justice</b></h4>
+<h4><b>Theme: Law and Justice</b></h4>
 
-<h4><b>Project track: Web3 - Blockchain | Web3/Ethereum Track</b></h4>
-
-Currently, the app can be tested on <b>Localhost (Hardhat)</b> & <b>Sepolia (EVM)</b> test network using Alchemy endpoint.
+<h4><b>Track: Web3 - Blockchain | Web3/Ethereum Track</b></h4>
 
 <h3><b>Snapshots from the project :</b></h3>
 
 <img src="./project-assets/sc1.png" width="350" class="image-align-left"><img src="./project-assets/sc2.png" width="350">
 <img src="./project-assets/sc3.png" width="350"><img src="./project-assets/sc4.png" width="350">
 <img src="./project-assets/sc5.png" width="350"><img src="./project-assets/sc6.png" width="350">
+
+Currently, the app can be tested on <b>Localhost (Hardhat)</b> & <b>Sepolia (EVM)</b> test network using Alchemy endpoint.
 
 <h3><b>E-Vault Features :</b></h3>
 
