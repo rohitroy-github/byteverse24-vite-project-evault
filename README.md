@@ -2,9 +2,9 @@
 
 <h4><b>Description: A modernized blockchain(EVM) based eVault storage solution for the Indian Judiciary made using ViteJS.</b></h4>
 
-<h4><b>Theme: Law and Justice</b></h4>
+<h4><b>Theme: Law and Justice | Open Innovation</b></h4>
 
-<h4><b>Track: Web3 - Blockchain | Web3/Ethereum Track</b></h4>
+<h4><b>Track: Web3 - Blockchain | Web3/Ethereum Track | Web Development</b></h4>
 
 <h3><b>Snapshots from the project :</b></h3>
 
@@ -133,5 +133,11 @@ Terminal 1:
 - [postcss](https://www.npmjs.com/package/postcss) (^8.4.29)
 - [tailwindcss](https://www.npmjs.com/package/tailwindcss) (^3.3.3)
 - [vite](https://www.npmjs.com/package/vite) (^4.4.5)
+
+<h3><b>Overview video:</b></h3>
+
+https://www.loom.com/share/a5b5990273df4629b7dc2af6bbf9d08d?sid=3962bd00-ebff-4a92-9811-d50956a3c7e8
+
+<h3><b>Pitch deck:</b></h3>
 
 <b>The project is complete but I'm open to suggestions & modifications for this project. Please don't forget to put a ⭐ if you like the project.</b>
